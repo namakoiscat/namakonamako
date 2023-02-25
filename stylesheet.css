@@ -1,0 +1,22 @@
+body {
+  background-color: #b3d7ff;
+}
+
+#news {
+  background-image: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #8b00ff);
+  background-size: 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+#header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
+.logo {
+  font-size: 2em;
+  text-align: center;
+}
